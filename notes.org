@@ -14,4 +14,3 @@ Notes on grid type beam dose monitor
     - [X] Feasibility check in LaTeX
     - [ ] Outline for the two posters 
     - [ ] Create two poster mockups in latex
-asdad
