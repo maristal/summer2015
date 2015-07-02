@@ -1,6 +1,6 @@
 Notes on grid type beam dose monitor
 
-* TODO [0/4]
+* Todo [0/4]
   - [ ] BPM 
     - [X] Talk to Iacopo and set up a meeting
     - [ ] Set up meeting with Julien, Iacopo and Christos
