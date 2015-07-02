@@ -1,0 +1,19 @@
+Notes on grid type beam dose monitor
+
+* TODO [0/4]
+  - [ ] BPM 
+    - [X] Talk to Iacopo and set up a meeting
+    - [ ] Set up meeting with Julien, Iacopo and Christos
+    - [ ] Decide on data analysis needed, software
+  - [ ] BLM/silicon ddetector and grid type detector
+    - [X] Read PhD from Salvatore
+    - [ ] Summary of findings to Julien
+    - [ ] More info from Library
+  - [ ] Ask Maurice if its possible to get info from his server for BPM
+  - [ ] Poster for CHARM
+    - [X] Feasibility check in LaTeX
+    - [ ] Outline for the two posters 
+    - [ ] Create two poster mockups in latex
+
+* Working on 
+  - WORKING Marice BPM 
