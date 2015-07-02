@@ -16,4 +16,4 @@ Notes on grid type beam dose monitor
     - [ ] Create two poster mockups in latex
 
 * Working on 
-  - WORKING Marice BPM 
+  - WORKING Maurice BPM 
