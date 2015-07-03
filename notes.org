@@ -18,5 +18,5 @@ Notes on grid type beam dose monitor
     - [ ] Outline for the two posters 
     - [ ] Create two poster mockups in latex
 
-* Summary of work done
+ --- Summary of previous work done ---
 ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
