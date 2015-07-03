@@ -9,7 +9,7 @@ Summer 2015 summary
     - [X] Read PhD from Salvatore
     - [ ] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
       - [[http://scitation.aip.org/docserver/fulltext/aapm/journal/medphys/30/8/1.1591431.pdf?expires=1435910067&id=id&accname=2098973&checksum=17174028E8F9D680C74C6473D041FB74][Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size]]
-      - CONTENT
+      - 
     - [ ] Summary of findings to Julien
     - [ ] More info from Publications
   - [ ] Ask Maurice if its possible to get info from his server for BPM
@@ -20,3 +20,8 @@ Summer 2015 summary
 
 * Summary of previous theoretical work done
 ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
+ drawbacks to be considered in the use of diamond detector, among which 
+  - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
+  - it  is less user friendly, since it necessitates a pre-irradiation dose,
+  before daily use, to stabilize the response
+  - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
