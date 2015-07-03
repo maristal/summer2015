@@ -19,8 +19,12 @@ Summer 2015 summary
     - [ ] Create two poster mockups in latex
 
 * Summary of previous theoretical work done
-** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
- drawbacks to be considered in the use of diamond detector, among which 
-  - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
-  - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
-  - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
+  ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field stabilize
+  *** Advantages of diamond detector
+    - the high sensitivity of diamond material permits to build small size dosimeters suitable  for accurate  determination  of  output  factors,  percent depth dose and transverse profiles, also when field sizes are
+  small,  which  is  the  condition  where  ion  chambers  do  not have an appropriate spatial resolution
+   - Its features compare favorably with those of ion chamber and silicon diode systems. In fact, . Its tissue equivalence  does  not  introduce  an  energy  dependence  effect  in  the  response, which, on the contrary, can be present in silicon diodes.
+   *** Drawbacks to be considered in the use of diamond detector
+    - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
+    - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
+    - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
