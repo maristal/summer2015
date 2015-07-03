@@ -7,6 +7,9 @@ Notes on grid type beam dose monitor
     - [ ] Decide on data analysis needed, software
   - [ ] BPM/silicon ddetector and grid type detector
     - [X] Read PhD from Salvatore
+    - [ ] Find info on work done, short summary on each
+      - [ ] [[http://scitation.aip.org/docserver/fulltext/aapm/journal/medphys/30/8/1.1591431.pdf?expires=1435910067&id=id&accname=2098973&checksum=17174028E8F9D680C74C6473D041FB74][Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size]]
+      - [ ] 
     - [ ] Summary of findings to Julien
     - [ ] More info from Publications
   - [ ] Ask Maurice if its possible to get info from his server for BPM
