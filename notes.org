@@ -2,7 +2,7 @@ Notes on grid type beam dose monitor
 
 * Todo [0/4]
   - [ ] BLM 
-    - [X] Talk to Iacopo and set up a meeting, his back at 2015-07-06 
+    - [X] Talk to Iacopo and set up a meeting, he`s back at 2015-07-06 
     - [ ] Set up meeting with Julien, Iacopo and Christos
     - [ ] Decide on data analysis needed, software
   - [ ] BPM/silicon ddetector and grid type detector
