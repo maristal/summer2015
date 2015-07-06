@@ -5,7 +5,7 @@ Summer 2015 summary
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
     - [ ] Set up meeting with Julien, Iacopo, Ewald and Christos
     - [ ] Decide on data analysis needed, software
-    :REF: [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
+    - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon ddetector and grid type detector
     - [X] Read PhD from Salvatore
     - [ ] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
