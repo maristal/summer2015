@@ -11,6 +11,7 @@ Summer 2015 summary
     - [ ] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
       - [[http://scitation.aip.org/docserver/fulltext/aapm/journal/medphys/30/8/1.1591431.pdf?expires=1435910067&id=id&accname=2098973&checksum=17174028E8F9D680C74C6473D041FB74][Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size]]
       - [[http://ac.els-cdn.com/S0168900204001512/1-s2.0-S0168900204001512-main.pdf?_tid=5f45ff82-2162-11e5-9161-00000aab0f26&acdnat=1435914389_8f888ad62741ec329e04e33444fbbdf6][Measurement of the n-TOF beam profile with a micromegas detector]]
+      - [[https://cds.cern.ch/record/2025856/files/jinst14_01_c01058.pdf][Applications of triple GEM detectors beyond particle and nuclear physics]]
       - The new version of Radiation Monitor system for the electronics at CERN [S. Danzeca].
     - [ ] Summary of findings to Julien
     - [ ] More info from Publications
@@ -33,14 +34,13 @@ Summer 2015 summary
   - 400 nm higher resolution
   - changing of the bias voltage leads to changes in threshold voltage, change is not linear with TID, calibration is needed
   - relation between drain current and drain-source potential is used to measure variation of threshold voltage at different doses
-  - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy
+  - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy, above that power fit
 *** SRAM
   - High Energy Hadron and Thermal neutron fluence with SRAM
   - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
-  - CONTENT
 
-** Measurement of the n-TOF beam profile with a micromegas detector
-*** 
+** Applications of triple GEM detectors beyond particle and nuclear physics
+  - Micro-Pattern Gaseous Detectors (MPGD) have opened the way for the construction of detectors whose performance surpasses that of the previous generations in terms of spatial resolution, high-rate capability and increased radiation hardness. Led by the Micro-Mesh Gaseous Structure (Micromegas) and the Gas Electron Multiplier (GEM), some MPGDs are mature technologies used in a variety of experiments at high energy physics. What we report in this article is the experience explored in the last years with a compact GEM detector system in several applications as medical imaging, dosimetry and beam diagnostics for high energy beams and for nuclear reactors. For sake of shortness, only performance on soft X-ray and neutron detection will be described in detail. Also a description of the new promising highly pixelated GEM detector will be presented.
 
 ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
 
