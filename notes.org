@@ -1,6 +1,6 @@
 Summer 2015 summary
 
-* Todo [0/4]
+* Todo [1/4]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
     - [ ] Set up meeting with Julien, Iacopo and Christos
@@ -13,23 +13,29 @@ Summer 2015 summary
       - The new version of Radiation Monitor system for the electronics at CERN.
     - [ ] Summary of findings to Julien
     - [ ] More info from Publications
-  - [ ] Ask Maurice if its possible to get info from his server for BPM
+  - [X] Ask Maurice if its possible to get info from his server for BPM
   - [ ] Poster for CHARM
     - [X] Feasibility check in LaTeX
     - [ ] Outline for the two posters 
-    - [ ] Create two poster mockups in latex
+    - [ ] Create two poster mock ups in latex
+      - [X] First poster with overview mock up
+      - [ ] Second Poster with different Detectors mock up
+
 
 * Summary of previous theoretical work done
-
-**  (RadMon) The new version of Radiation Monitor system for the electronics at CERN.
+** (RadMon) The new version of Radiation Monitor system for the electronics at CERN.
 *** RadFet
   - Total Ionizing Dose with RadFet
   - 100 nm higher TID range
   - 400 nm higher resolution
+  - changing of the bias voltage leads to changes in threshold voltage, change is not linear with TID, calibration is needed
+  - relation between drain current and drain-source potential is used to measure variation of threshold voltage at different doses
+  - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy
+  - CONTENT
 *** SRAM
-  - Fluence with SRAM
+  - High Energy Hadron Fluence with SRAM
 
-**  Measurement of the n-TOF beam profile with a micromegas detector
+** Measurement of the n-TOF beam profile with a micromegas detector
 *** 
 
 ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
