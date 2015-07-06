@@ -3,20 +3,23 @@ Summer 2015 summary
 * Todo [1/4]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
-    - [ ] Set up meeting with Julien, Iacopo and Christos
+    - [ ] Set up meeting with Julien, Iacopo, Ewald and Christos
     - [ ] Decide on data analysis needed, software
+    :REF: [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon ddetector and grid type detector
     - [X] Read PhD from Salvatore
     - [ ] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
       - [[http://scitation.aip.org/docserver/fulltext/aapm/journal/medphys/30/8/1.1591431.pdf?expires=1435910067&id=id&accname=2098973&checksum=17174028E8F9D680C74C6473D041FB74][Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size]]
       - [[http://ac.els-cdn.com/S0168900204001512/1-s2.0-S0168900204001512-main.pdf?_tid=5f45ff82-2162-11e5-9161-00000aab0f26&acdnat=1435914389_8f888ad62741ec329e04e33444fbbdf6][Measurement of the n-TOF beam profile with a micromegas detector]]
-      - The new version of Radiation Monitor system for the electronics at CERN.
+      - The new version of Radiation Monitor system for the electronics at CERN [S. Danzeca].
     - [ ] Summary of findings to Julien
     - [ ] More info from Publications
   - [X] Ask Maurice if its possible to get info from his server for BPM
   - [ ] Poster for CHARM
     - [X] Feasibility check in LaTeX
     - [ ] Outline for the two posters 
+      - [X] First poster overview
+      - [ ] Second Poster with different Detectors overview
     - [ ] Create two poster mock ups in latex
       - [X] First poster with overview mock up
       - [ ] Second Poster with different Detectors mock up
