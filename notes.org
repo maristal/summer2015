@@ -34,9 +34,10 @@ Summer 2015 summary
   - changing of the bias voltage leads to changes in threshold voltage, change is not linear with TID, calibration is needed
   - relation between drain current and drain-source potential is used to measure variation of threshold voltage at different doses
   - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy
-  - CONTENT
 *** SRAM
-  - High Energy Hadron Fluence with SRAM
+  - High Energy Hadron and Thermal neutron fluence with SRAM
+  - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
+  - CONTENT
 
 ** Measurement of the n-TOF beam profile with a micromegas detector
 *** 
