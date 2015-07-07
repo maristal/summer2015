@@ -11,8 +11,8 @@
       - Where is the data logged?
       - Are there any known issues with the BLM, is the timing correct?
       - Who do we contact if there are problems with the BLM?
-      - [ ] Set up LaTeX template for minutes
-      - [ ] Write meeting minutes
+    - [ ] Set up LaTeX template for minutes
+    - [ ] Write meeting minutes
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon ddetector and grid type detector
     - [X] Read PhD from Salvatore
