@@ -38,7 +38,8 @@ Summer 2015 summary
 *** SRAM
   - High Energy Hadron and Thermal neutron fluence with SRAM
   - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
-
+*** FGDOS
+  - Advantages over regular MOS transistor: mechanism of measurement is the transport of electrons in the floating gate, which is faster than transport of holes and not affected by the trapping in the oxide to the same degree
 ** Applications of triple GEM detectors beyond particle and nuclear physics
   - Micro-Pattern Gaseous Detectors (MPGD) have opened the way for the construction of detectors whose performance surpasses that of the previous generations in terms of spatial resolution, high-rate capability and increased radiation hardness. Led by the Micro-Mesh Gaseous Structure (Micromegas) and the Gas Electron Multiplier (GEM), some MPGDs are mature technologies used in a variety of experiments at high energy physics. What we report in this article is the experience explored in the last years with a compact GEM detector system in several applications as medical imaging, dosimetry and beam diagnostics for high energy beams and for nuclear reactors. For sake of shortness, only performance on soft X-ray and neutron detection will be described in detail. Also a description of the new promising highly pixelated GEM detector will be presented (MediPix)
 **  Medipix
