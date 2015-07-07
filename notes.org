@@ -33,7 +33,7 @@
       - [ ] Second Poster with different Detectors mock up
 
 * Summary of previous theoretical work done
-** (RadMon) The new version of Radiation Monitor system for the electronics at CERN.
+** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref: S. Danzeca
 *** RadFet
   - Total Ionizing Dose with RadFet
   - 100 nm higher TID range
@@ -44,7 +44,7 @@
 *** SRAM
   - High Energy Hadron and Thermal neutron fluence with SRAM
   - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
-*** FGDOS (Floating Gate Dosimeter) ref: S. Danzeca
+*** FGDOS (Floating Gate Dosimeter) 
   - Advantages over regular MOS transistor: mechanism of measurement is the transport of electrons in the floating gate, which is faster than transport of holes and not affected by the trapping in the oxide to the same degree
   - The mechanism is the annihilation of the stored charges in the floating gate due to the radiation induced charges in the oxide surrounding the floating gate
   - When the floating gate is discharging the threshold voltage in the reading MOSFET is changed
