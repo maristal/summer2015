@@ -3,8 +3,15 @@ Summer 2015 summary
 * Todo [1/4]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
-    - [ ] Set up meeting with Julien, Iacopo, Ewald and Christos
+    - [X] Set up meeting with Julien, Iacopo, Ewald and Christos
     - [ ] Decide on data analysis needed, software
+    - [ ] Meeting agenda:
+      - Does the BLM output correct data?
+      - Can this data be used now in CHARM?
+      - Where is the data logged?
+      - Are there any known issues with the BLM, is the timing correct?
+      - Who do we contact if there are problems with the BLM?
+      - [ ] Write meeting minutes
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon ddetector and grid type detector
     - [X] Read PhD from Salvatore
