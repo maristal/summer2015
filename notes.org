@@ -32,38 +32,36 @@
       - [X] First poster with overview mock up
       - [ ] Second Poster with different Detectors mock up
 
-* Summary of previous theoretical work done
-** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref: S. Danzeca
-*** RadFet
-  - Total Ionizing Dose with RadFet
-  - 100 nm higher TID range
-  - 400 nm higher resolution
-  - changing of the bias voltage leads to changes in threshold voltage, change is not linear with TID, calibration is needed
-  - relation between drain current and drain-source potential is used to measure variation of threshold voltage at different doses
-  - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy, above that power fit
-*** SRAM
-  - High Energy Hadron and Thermal neutron fluence with SRAM
-  - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
-*** FGDOS (Floating Gate Dosimeter) 
-  - Advantages over regular MOS transistor: mechanism of measurement is the transport of electrons in the floating gate, which is faster than transport of holes and not affected by the trapping in the oxide to the same degree
-  - The mechanism is the annihilation of the stored charges in the floating gate due to the radiation induced charges in the oxide surrounding the floating gate
-  - When the floating gate is discharging the threshold voltage in the reading MOSFET is changed
-  - In the FGDOS sensor the variation of the threshold is converted into a frequency shift by an embedded oscillator in the IC
-** Applications of triple GEM detectors beyond particle and nuclear physics
-  - Micro-Pattern Gaseous Detectors (MPGD) have opened the way for the construction of detectors whose performance surpasses that of the previous generations in terms of spatial resolution, high-rate capability and increased radiation hardness. Led by the Micro-Mesh Gaseous Structure (Micromegas) and the Gas Electron Multiplier (GEM), some MPGDs are mature technologies used in a variety of experiments at high energy physics. What we report in this article is the experience explored in the last years with a compact GEM detector system in several applications as medical imaging, dosimetry and beam diagnostics for high energy beams and for nuclear reactors. For sake of shortness, only performance on soft X-ray and neutron detection will be described in detail. Also a description of the new promising highly pixelated GEM detector will be presented (MediPix)
-**  Medipix
-  - Medipix is a CMOS pixel detector readout chip designed to be connected to a segmented semiconductor sensor.
-  - With the Medipix family of radiation imaging detectors one can measure dose and dose rate over a dynamic range of 10^14 with a single device, starting from extremely low intensities, far below dangerous levels.
-  - The radiation is sampled by the 2cm^2 sensor with accurately adjustable exposure times.
-** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
+    * Summary of previous theoretical work done
+      ** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref: S. Danzeca
+        *** RadFet
+          - Total Ionizing Dose with RadFet
+          - 100 nm higher TID range
+          - 400 nm higher resolution
+          - changing of the bias voltage leads to changes in threshold voltage, change is not linear with TID, calibration is needed
+          - relation between drain current and drain-source potential is used to measure variation of threshold voltage at different doses
+          - 100nm linear fit valid up to 100 Gy, 400nm fit valid up to 100 Gy, above that power fit
+        *** SRAM
+          - High Energy Hadron and Thermal neutron fluence with SRAM
+          - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
+        *** FGDOS (Floating Gate Dosimeter) 
+          - Advantages over regular MOS transistor: mechanism of measurement is the transport of electrons in the floating gate, which is faster than transport of holes and not affected by the trapping in the oxide to the same degree
+          - The mechanism is the annihilation of the stored charges in the floating gate due to the radiation induced charges in the oxide surrounding the floating gate
+          - When the floating gate is discharging the threshold voltage in the reading MOSFET is changed
+          - In the FGDOS sensor the variation of the threshold is converted into a frequency shift by an embedded oscillator in the IC
+        ** Applications of triple GEM detectors beyond particle and nuclear physics
+          - Micro-Pattern Gaseous Detectors (MPGD) have opened the way for the construction of detectors whose performance surpasses that of the previous generations in terms of spatial resolution, high-rate capability and increased radiation hardness. Led by the Micro-Mesh Gaseous Structure (Micromegas) and the Gas Electron Multiplier (GEM), some MPGDs are mature technologies used in a variety of experiments at high energy physics. What we report in this article is the experience explored in the last years with a compact GEM detector system in several applications as medical imaging, dosimetry and beam diagnostics for high energy beams and for nuclear reactors. For sake of shortness, only performance on soft X-ray and neutron detection will be described in detail. Also a description of the new promising highly pixelated GEM detector will be presented (MediPix)
+      **  Medipix
+        - Medipix is a CMOS pixel detector readout chip designed to be connected to a segmented semiconductor sensor.
+        - With the Medipix family of radiation imaging detectors one can measure dose and dose rate over a dynamic range of 10^14 with a single device, starting from extremely low intensities, far below dangerous levels.
+        - The radiation is sampled by the 2cm^2 sensor with accurately adjustable exposure times.
+      ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
+        *** Advantages of a diamond detector
+          - the high sensitivity of diamond material permits to build small size dosimeters suitable  for accurate  determination  of  output  factors,  percent depth dose and transverse profiles, also when field sizes are small,  which  is  the  condition  where  ion  chambers  do  not have an appropriate spatial resolution
+         - Its features compare favorably with those of ion chamber and silicon diode systems. Its tissue equivalence  does  not  introduce  an  energy  dependence  effect  in  the  response, which, on the contrary, can be present in silicon diodes.
+        *** Drawbacks to be considered in the use of the diamond detector
+        - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
+        - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
+        - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
 
-*** Advantages of a diamond detector
-  - the high sensitivity of diamond material permits to build small size dosimeters suitable  for accurate  determination  of  output  factors,  percent depth dose and transverse profiles, also when field sizes are small,  which  is  the  condition  where  ion  chambers  do  not have an appropriate spatial resolution
- - Its features compare favorably with those of ion chamber and silicon diode systems. Its tissue equivalence  does  not  introduce  an  energy  dependence  effect  in  the  response, which, on the contrary, can be present in silicon diodes.
-
-*** Drawbacks to be considered in the use of the diamond detector
-- signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
-- it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
-- it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
-
-**  
+      **  
