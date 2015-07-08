@@ -11,6 +11,7 @@
       - Where is the data logged?
       - Are there any known issues with the BLM, is the timing correct?
       - Who do we contact if there are problems with the BLM?
+      - Should I contact Christos from now on?
     - [X] Set up LaTeX template for minutes
     - [ ] Write meeting minutes
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
@@ -51,6 +52,7 @@
   - When the floating gate is discharging the threshold voltage in the reading MOSFET is changed
   - In the FGDOS sensor the variation of the threshold is converted into a frequency shift by an embedded oscillator in the IC
   - suffers less from annealing effect than RadFet, at lower TID
+  - Sensitivity decreases with accumulated TID
 ** Applications of triple GEM detectors beyond particle and nuclear physics
   - Micro-Pattern Gaseous Detectors (MPGD) have opened the way for the construction of detectors whose performance surpasses that of the previous generations in terms of spatial resolution, high-rate capability and increased radiation hardness. Led by the Micro-Mesh Gaseous Structure (Micromegas) and the Gas Electron Multiplier (GEM), some MPGDs are mature technologies used in a variety of experiments at high energy physics. What we report in this article is the experience explored in the last years with a compact GEM detector system in several applications as medical imaging, dosimetry and beam diagnostics for high energy beams and for nuclear reactors. For sake of shortness, only performance on soft X-ray and neutron detection will be described in detail. Also a description of the new promising highly pixelated GEM detector will be presented (MediPix)
 **  Medipix
