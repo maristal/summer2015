@@ -7,8 +7,8 @@
     - [X] Decide on data analysis needed, software, work to be done, contacts
     - [ ] Program to analyze BLM data
       - [X] Program to compare BLM, SEC1 and FLUKA simulations in Java
-      - [ ] Compare data as done in [[https://ab-div-bdi-bl-blm.web.cern.ch/ab-div-bdi-bl-blm/Literature/fluka/CERF09_BLM_Measurements.pdf][Measurements and simulations of the BLM response to a radiation field inside the CERF target area ]]
-    - [X] Meeting agenda:
+      - [ ] Compare data as done in [[https://ab-div-bdi-bl-blm.web.cern.ch/ab-div-bdi-bl-blm/Literature/fluka/CERF09_BLM_Measurements.pdf][Measurements and simulations of the BLM response to a radiation field inside the CERF target area ]] {1} {{Comparing FLUKA and BLM measurements using}}
+    - [X] BLM Meeting agenda:
       - Does the BLM output correct data?
       - Can this data be used now in CHARM?
       - Where is the data logged?
@@ -36,6 +36,12 @@
     - [ ] Create two poster mock ups in latex
       - [X] First poster with overview mock up
       - [ ] Second Poster with different Detectors mock up
+
+* Comparing FLUKA and BLM measurements using reference
+  - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor 
+  - 'w' conversion factor gives for Nitrogen an average energy necessary to produce an electron-ion pair which is equal to 34.8 ± 0.2 eV
+  - w conversion factor is a function of the gas, the type of radiation and its energy. However, in the effective energy range and for the main contributing particle types, it does not show a strong dependence, hence, can be approximated in most cases by a constant value
+  - BLM data in Gy/s
 
 * Summary of previous theoretical work done
 ** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref S. Danzeca
@@ -72,4 +78,3 @@
   - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
   - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
 
-* Conversion 
