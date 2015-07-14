@@ -4,8 +4,10 @@
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
-    - [ ] Decide on data analysis needed, software, work to be done, contacts
-    - [ ] Meeting agenda:
+    - [X] Decide on data analysis needed, software, work to be done, contacts
+    - [ ] Program to compare BLM, SEC1 and FLUKA simulations
+      - [ ] Compare data as done in [[https://ab-div-bdi-bl-blm.web.cern.ch/ab-div-bdi-bl-blm/Literature/fluka/CERF09_BLM_Measurements.pdf][Measurements and simulations of the BLM response to a radiation field inside the CERF target area ]]
+    - [X] Meeting agenda:
       - Does the BLM output correct data?
       - Can this data be used now in CHARM?
       - Where is the data logged?
@@ -13,7 +15,7 @@
       - Who do we contact if there are problems with the BLM?
       - Should I contact Christos from now on?
     - [X] Set up LaTeX template for minutes
-    - [ ] Write meeting minutes
+    - [X] Write meeting minutes
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon detector and grid type detector
     - [X] Read PhD from Salvatore
@@ -47,6 +49,7 @@
   - High Energy Hadron and Thermal neutron fluence with SRAM
   - Flipped bits are counted, knowing the cross section count the number of particles that hit the device
 *** FGDOS (Floating Gate Dosimeter) 
+  - Based on FAMOS (Floating-gate Avalanche Injection MOs)
   - Advantages over regular MOS transistor: mechanism of measurement is the transport of electrons in the floating gate, which is faster than transport of holes and not affected by the trapping in the oxide to the same degree
   - The mechanism is the annihilation of the stored charges in the floating gate due to the radiation induced charges in the oxide surrounding the floating gate
   - When the floating gate is discharging the threshold voltage in the reading MOSFET is changed
