@@ -5,7 +5,8 @@
     - [X] Talk to Iacopo and set up a meeting, he`s back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
     - [X] Decide on data analysis needed, software, work to be done, contacts
-    - [ ] Program to compare BLM, SEC1 and FLUKA simulations
+    - [ ] Program to analyze BLM data
+      - [X] Program to compare BLM, SEC1 and FLUKA simulations in Java
       - [ ] Compare data as done in [[https://ab-div-bdi-bl-blm.web.cern.ch/ab-div-bdi-bl-blm/Literature/fluka/CERF09_BLM_Measurements.pdf][Measurements and simulations of the BLM response to a radiation field inside the CERF target area ]]
     - [X] Meeting agenda:
       - Does the BLM output correct data?
@@ -70,3 +71,5 @@
   - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
   - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
   - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
+
+* Conversion 
