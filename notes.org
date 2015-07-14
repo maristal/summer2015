@@ -37,12 +37,12 @@
       - [X] First poster with overview mock up
       - [ ] Second Poster with different Detectors mock up
 
-* Comparing FLUKA and BLM measurements using reference
-  - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
-  - One PIC count corresponds to 22116 particles ± 10%
-  - 'w' conversion factor gives for Nitrogen an average energy necessary to produce an electron-ion pair which is equal to 34.8 ± 0.2 eV
-  - w conversion factor is a function of the gas, the type of radiation and its energy. However, in the effective energy range and for the main contributing particle types, it does not show a strong dependence, hence, can be approximated in most cases by a constant value
-  - BLM data in Gy/s, can be converted to nC/PIC
+  * Comparing FLUKA and BLM measurements using reference {1}
+    - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
+    - One PIC count corresponds to 22116 particles ± 10% 
+    - 'w' conversion factor gives for Nitrogen an average energy necessary to produce an electron-ion pair which is equal to 34.8 ± 0.2 eV
+    - w conversion factor is a function of the gas, the type of radiation and its energy. However, in the effective energy range and for the main contributing particle types, it does not show a strong dependence, hence, can be approximated in most cases by a constant value
+    - BLM data in Gy/s, can be converted to nC/PIC
 
 * Summary of previous theoretical work done
 ** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref S. Danzeca
