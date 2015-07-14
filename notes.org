@@ -37,7 +37,7 @@
       - [ ] Second Poster with different Detectors mock up
 
 * Summary of previous theoretical work done
-** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref: S. Danzeca
+** (RadMon) The new version of Radiation Monitor system for the electronics at CERN. ref S. Danzeca
 *** RadFet
   - Total Ionizing Dose with RadFet
   - 100 nm higher TID range
@@ -64,11 +64,9 @@
   - The radiation is sampled by the 2cm^2 sensor with accurately adjustable exposure times.
 ** Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size
 *** Advantages of a diamond detector
-- the high sensitivity of diamond material permits to build small size dosimeters suitable  for accurate  determination  of  output  factors,  percent depth dose and transverse profiles, also when field sizes are small,  which  is  the  condition  where  ion  chambers  do  not have an appropriate spatial resolution
-- Its features compare favorably with those of ion chamber and silicon diode systems. Its tissue equivalence  does  not  introduce  an  energy  dependence  effect  in  the  response, which, on the contrary, can be present in silicon diodes.
+  - the high sensitivity of diamond material permits to build small size dosimeters suitable  for accurate  determination  of  output  factors,  percent depth dose and transverse profiles, also when field sizes are small,  which  is  the  condition  where  ion  chambers  do  not have an appropriate spatial resolution
+  - Its features compare favorably with those of ion chamber and silicon diode systems. Its tissue equivalence  does  not  introduce  an  energy  dependence  effect  in  the  response, which, on the contrary, can be present in silicon diodes.
 *** Drawbacks to be considered in the use of the diamond detector
-- signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
-- it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
-- it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
-
-**  
+  - signal shows a dose rate dependence that must be accounted for in order  to  obtain  correct  dose  distributions,  while  the  results here  reported  exclude  such  dependence  for  silicon
+  - it  is less user friendly, since it necessitates a pre-irradiation dose, before daily use, to stabilize the response
+  - it has a slow  response  in  time,  needing  up  to  about 2 s to obtain signal  stability, 
