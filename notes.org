@@ -20,7 +20,7 @@
     - [ ] Second meeting (Julien) agenda and minutes
       - Need to wait for data from Adam
       - Show what the program currently does, ask what more it should do
-      - Propose the removal of the filter from BLMEI.00PS.B0R20_CHARM:LOSS_RS10
+      - Propose the removal of the filter from BLMEI.00PS.B0R20_CHARM:LOSS_RS10 and "BLMEI.00PS.B0R10_CHARM:LOSS_RS10
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [ ] BPM/silicon detector and grid type detector
     - [X] Read PhD from Salvatore
