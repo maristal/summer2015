@@ -1,6 +1,6 @@
 * Summer 2015 summary
 
-* Todo [1/4]
+* Todo [2/6]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he's back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
@@ -22,23 +22,24 @@
       - Show what the program currently does, ask what more it should do
       - Propose the removal of the filter from BLMEI.00PS.B0R20_CHARM:LOSS_RS10 and BLMEI.00PS.B0R10_CHARM:LOSS_RS10
     - [ ] Get RadMon stuff from Natanael, meeting
-      - [ ] Ask about shifts
-      - [ ] Also extra information about after access
+      - [X] Ask about shifts
+      - [X] Also extra information about after access
         - What to check
         - Who to call
       - [ ] Make a shift procedure
+        - [ ] Add an explanation of Einos program 
     - [ ] Dose measured during 17.07 with metal in IRRAD
         - BLM dose
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
-  - [ ] BPM/silicon detector and grid type detector
+  - [X] BPM/silicon detector and grid type detector
     - [X] Read PhD from Salvatore
-    - [ ] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
+    - [X] Find info on work done, short summary on each {{Summary of previous theoretical work done}}
       - [[http://scitation.aip.org/docserver/fulltext/aapm/journal/medphys/30/8/1.1591431.pdf?expires=1435910067&id=id&accname=2098973&checksum=17174028E8F9D680C74C6473D041FB74][Diamond detector versus silicon diode and ion chamber in photon beams of different energy and field size]]
       - [[http://ac.els-cdn.com/S0168900204001512/1-s2.0-S0168900204001512-main.pdf?_tid=5f45ff82-2162-11e5-9161-00000aab0f26&acdnat=1435914389_8f888ad62741ec329e04e33444fbbdf6][Measurement of the n-TOF beam profile with a micromegas detector]]
       - [[https://cds.cern.ch/record/2025856/files/jinst14_01_c01058.pdf][Applications of triple GEM detectors beyond particle and nuclear physics]]
       - [[https://cds.cern.ch/record/2025856/files/jinst14_01_c01058.pdf][Measuring radiation environment in LHC or anywhere else, on your computer screen with Medipix]]
       - The new version of Radiation Monitor system for the electronics at CERN [S. Danzeca].
-    - [ ] Summary of findings
+    - [X] Summary of findings
   - [X] Ask Maurice if its possible to get info from his server for BPM
   - [ ] Poster for CHARM
     - [X] Feasibility check in LaTeX
@@ -50,7 +51,7 @@
       - [ ] Second Poster with different Detectors mock up
   - [ ] Calibration of the SEC1 and SEC2
     - [ ] Calibration report
-    - [ ] Meeting with Julien and Iacopo 09:00 17.07
+    - [X] Meeting with Julien and Iacopo 09:00 17.07
   - [ ] CHARM manual
 
 * Comparing FLUKA and BLM measurements using reference {1}
