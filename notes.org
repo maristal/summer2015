@@ -53,10 +53,10 @@
         - [ ] Add an explanation of Einos program 
         - [X] Draft of shift procedure to DFS
   - [ ] CHARM manual
-  - [ ] IRON run with RadMon and BLM
+  - [ ] :DOING: IRON run with RadMon and BLM
     - [ ] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
   - [X] :EINO: RadMon analysis for week 20.07
-  - [ ] Automated program for RadMon scripts
+  - [ ] :DOING: Automated program for RadMon scripts
 
 * Comparing FLUKA and BLM measurements using reference {1}
   - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
