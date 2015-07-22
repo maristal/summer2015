@@ -1,6 +1,6 @@
 * Summer 2015 summary
 
-* Todo [2/6]
+* Todo [4/9]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he's back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
@@ -21,15 +21,6 @@
       - Need to wait for data from Adam
       - Show what the program currently does, ask what more it should do
       - Propose the removal of the filter from BLMEI.00PS.B0R20_CHARM:LOSS_RS10 and BLMEI.00PS.B0R10_CHARM:LOSS_RS10
-    - [ ] Get RadMon stuff from Natanael, meeting
-      - [X] Ask about shifts
-      - [X] Also extra information about after access
-        - What to check
-        - Who to call
-      - [ ] Make a shift procedure
-        - [ ] Add an explanation of Einos program 
-    - [ ] Dose measured during 17.07 with metal in IRRAD
-        - BLM dose
     - Reference [[http://cds.cern.ch/record/1144077/files/CERN-THESIS-2008-099.pdf][Beam loss calibration studies for high energy proton accelerators]]
   - [X] BPM/silicon detector and grid type detector
     - [X] Read PhD from Salvatore
@@ -41,18 +32,31 @@
       - The new version of Radiation Monitor system for the electronics at CERN [S. Danzeca].
     - [X] Summary of findings
   - [X] Ask Maurice if its possible to get info from his server for BPM
-  - [ ] Poster for CHARM
+  - [X] :DONE: Poster for CHARM
     - [X] Feasibility check in LaTeX
-    - [ ] Outline for the two posters 
+    - [X] Outline for the two posters 
       - [X] First poster overview
-      - [ ] Second Poster with different Detectors overview
-    - [ ] Create two poster mock ups in latex
+      - [X] Second Poster with different Detectors overview
+    - [X] Create two poster mock ups in latex
       - [X] First poster with overview mock up
-      - [ ] Second Poster with different Detectors mock up
-  - [ ] Calibration of the SEC1 and SEC2
+      - [X] Second Poster with different Detectors mock up
+  - [ ] Calibration report of the SEC1 and SEC2
     - [ ] Calibration report
     - [X] Meeting with Julien and Iacopo 09:00 17.07
+    - [ ] Data from Iacopo
+      - [ ] Get RadMon stuff from Natanael, meeting
+      - [X] Ask about shifts
+      - [X] Also extra information about after access
+        - What to check
+        - Who to call
+      - [ ] Make a shift procedure
+        - [ ] Add an explanation of Einos program 
+        - [X] Draft of shift procedure to DFS
   - [ ] CHARM manual
+  - [ ] IRON run with RadMon and BLM
+    - [ ] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
+  - [X] :EINO: RadMon analysis for week 20.07
+  - [ ] Automated program for RadMon scripts
 
 * Comparing FLUKA and BLM measurements using reference {1}
   - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
