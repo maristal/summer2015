@@ -58,9 +58,10 @@
     - [ ] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
   - [X] :EINO: RadMon analysis for week 20.07
   - [ ] :DOING: Automated program for RadMon scripts
-    - [ ] Complete GUI
+    - [X] Complete GUI
     - [ ] Complete folder creation logic
     - [ ] Complete check-box logic
+    - [ ] Add threading to execution and run button logic
 
 * Comparing FLUKA and BLM measurements using reference {1}
   - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
