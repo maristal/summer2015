@@ -1,6 +1,6 @@
 * Summer 2015 summary
 
-* Todo [4/9]
+* Todo [5/11]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he's back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
@@ -44,19 +44,22 @@
     - [ ] Calibration report
     - [X] Meeting with Julien and Iacopo 09:00 17.07
     - [ ] Data from Iacopo
-      - [ ] Get RadMon stuff from Natanael, meeting
-      - [X] Ask about shifts
-      - [X] Also extra information about after access
+  - [X] Get RadMon stuff from Natanael, meeting
+    - [X] Ask about shifts
+    - [X] Also extra information about after access
         - What to check
         - Who to call
-      - [ ] Make a shift procedure
-        - [ ] Add an explanation of Einos program 
-        - [X] Draft of shift procedure to DFS
+  - [ ] Make a shift procedure
+    - [ ] Add an explanation of Einos program 
+    - [X] Draft of shift procedure to DFS
   - [ ] CHARM manual
   - [ ] :DOING: IRON run with RadMon and BLM
     - [ ] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
   - [X] :EINO: RadMon analysis for week 20.07
   - [ ] :DOING: Automated program for RadMon scripts
+    - [ ] Complete GUI
+    - [ ] Complete folder creation logic
+    - [ ] Complete check-box logic
 
 * Comparing FLUKA and BLM measurements using reference {1}
   - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
