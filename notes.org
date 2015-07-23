@@ -43,7 +43,7 @@
   - [ ] Calibration report of the SEC1 and SEC2
     - [ ] Calibration report
     - [X] Meeting with Julien and Iacopo 09:00 17.07
-    - [ ] Data from Iacopo
+    - [X] Data from Iacopo
   - [X] Get RadMon stuff from Natanael, meeting
     - [X] Ask about shifts
     - [X] Also extra information about after access
