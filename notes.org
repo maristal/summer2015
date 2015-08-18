@@ -1,6 +1,6 @@
 * Summer 2015 summary
 
-* Todo [5/11]
+* Todo [8/12]
   - [ ] BLM 
     - [X] Talk to Iacopo and set up a meeting, he's back on 2015-07-06 
     - [X] Set up meeting with Iacopo and Ewald 
@@ -32,7 +32,7 @@
       - The new version of Radiation Monitor system for the electronics at CERN [S. Danzeca].
     - [X] Summary of findings
   - [X] Ask Maurice if its possible to get info from his server for BPM
-  - [X] :DONE: Poster for CHARM
+  - [X] :DONE: Poster for CHARM 
     - [X] Feasibility check in LaTeX
     - [X] Outline for the two posters 
       - [X] First poster overview
@@ -49,19 +49,22 @@
     - [X] Also extra information about after access
         - What to check
         - Who to call
-  - [ ] Make a shift procedure
-    - [ ] Add an explanation of Einos program 
+  - [X] Make a shift procedure
+    - [X] Add an explanation of Einos program 
     - [X] Draft of shift procedure to DFS
     - [X] Include Juliens corrections to the shift procedure
   - [ ] CHARM manual
-  - [ ] :DOING: IRON run with RadMon and BLM
-    - [ ] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
+  - [X] :DOING: IRON run with RadMon and BLM
+    - [X] Evaluate with the day before and when the IRON target was in 17.07.2015 14:30-15:30
+    - [X] IRON target vs CHARM copper target
   - [X] :EINO: RadMon analysis for week 20.07
-  - [ ] :DOING: Automated program for RadMon scripts
+  - [X] :DOING: Automated program for RadMon scripts
     - [X] Complete GUI
-    - [ ] Complete folder creation logic
-    - [ ] Complete check-box logic
-    - [ ] Add threading to execution and run button logic
+    - [X] Complete folder creation logic
+    - [X] Complete check-box logic
+    - [X] Add threading to execution and run button logic
+  - [ ] For SEC cross calibration
+    - [ ] For RP measurements Marco Iliari
 
 * Comparing FLUKA and BLM measurements using reference {1}
   - FLUKA data in GeV/cm^3/pp, can be converted to energy with w conversion factor and PIC count
